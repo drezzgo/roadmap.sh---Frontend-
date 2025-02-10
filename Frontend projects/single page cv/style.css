@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #0a0a23;
+    margin: 60px 0px -10px 0px;
+    text-align: center;
+    font-size: 11pt;
+}
+
+header, main, footer {
+    background-color: #fff;
+}
+
+
+h1 {
+    font-size: 11pt;
+}
+
+h2, h3 {
+    font-size: 11pt;
+    padding-top: 10px;
+}
+
+p {
+    font-size: 11pt;
+}
+
+/* Agregar estilos para la parte de educacion */
+
+
+
