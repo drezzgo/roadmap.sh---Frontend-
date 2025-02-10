@@ -1,30 +1,68 @@
 body {
-    font-family: 'Times New Roman', sans-serif;
-    background-color: #0a0a23;
-    margin: 60px 0px -10px 0px;
+    font-family: "Times New Roman", sans-serif;
+    background-color: #fff;
+    margin: 60px 100px 0px;
     text-align: center;
     font-size: 11pt;
 }
 
-header, main, footer {
+header,
+main,
+footer {
     background-color: #fff;
 }
-
 
 h1 {
     font-size: 11pt;
 }
 
-h2, h3 {
+h2,
+h3 {
     font-size: 11pt;
     padding-top: 10px;
 }
 
 p {
     font-size: 11pt;
+    margin: 3px;
 }
 
-/* Agregar estilos para la parte de educacion */
+.section p{
+    text-align: left;
+}
 
+.education {
+    display: flex;
+}
 
+.education .left,
+.education .right {
+    width: 50%;
+}
+
+.education .left {
+    text-align: left;
+}
+
+.education .left h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+.education .right {
+    text-align: right;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid-item.left {
+    text-align: left;
+}
+
+.grid-item.right {
+    text-align: right;
+}
 
