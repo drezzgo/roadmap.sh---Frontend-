@@ -4,7 +4,7 @@ This repository contains solutions to all the frontend challenges and projects f
 
 ## Project URL
 
-[Single Page CV](./Frontend%20projects/single%20page%20cv/index.html)
+[Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
 ## Project Previews
 
